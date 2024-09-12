@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body style=background-color:forestgreen>
+  <p style=color:white> My name is Eddie Lopez.
+  
+  <p style=color:white> My unhealthy obsessions is video games, which I play everyday and nearly constantly since I don't have much to do. I play quite a few different games since if I play only one game I get extremely bored.
+    
+     <p style=color:white> A few of the video games I play all the time are: Minecraft, Fallout 4, Borderlands 2 and 3, and Terarria. I also play quite a few other games but I play these the most.
+       <img src="Borderlands 2.jpeg" width="300" height="200"/>
+       <img src="Fallout 4.jpeg" width="300" height="200"/>
+       <img src="Terraria.jpeg" width="300" height="200"/>
+    <script src="script.js"></script>
+</body>
+
+</html>
